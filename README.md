@@ -11,7 +11,6 @@
 
 - [atcoder-nudge-pub](https://github.com/Kyo1r0/atcoder-nudge-pub)
 - [vc-mihari](https://github.com/Kyo1r0/vc-mihari)
-- [New-MMA-wiki-demo](https://github.com/Kyo1r0/New-MMA-wiki-demo)
 
 ## 🧰 使っている技術
 
