@@ -1,4 +1,4 @@
-# こんにちは、Kyo1r0 です 👋
+# こんにちは、Kyo1r0 です 
 
 **Kyoichiro Takemura** です。
 
