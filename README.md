@@ -11,7 +11,7 @@
 
 - [atcoder-nudge-pub](https://github.com/Kyo1r0/atcoder-nudge-pub)
 - [vc-mihari](https://github.com/Kyo1r0/vc-mihari)
-- [Node.js vs Yesod](https://github.com/Kyo1r0/pl-2026-report
+- [Node.js vs Yesod](https://github.com/Kyo1r0/pl-2026-report)
 
 ##  使ってるもの
 
