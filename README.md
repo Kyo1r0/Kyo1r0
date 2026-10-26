@@ -1,10 +1,10 @@
-# Kyo1r0 です 
+# Kyo1r0 
 
 **Kyoichiro Takemura** です。
 
 ##  興味のあること
 
--  **競技プログラミング**（AtCoder） [私のアカウント:take37](https://atcoder.jp/users/Take37)
+-  **競技プログラミング**（AtCoder） [アカウント:take37](https://atcoder.jp/users/Take37)
 -  **Web 開発**
 
 ##  プロジェクト
